@@ -1,2 +1,2 @@
 # analizadordenumeros
- Projecto de prática de JavaScritp
+ Projecto de prática de JavaScript
